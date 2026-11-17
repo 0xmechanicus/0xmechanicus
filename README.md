@@ -1,16 +1,14 @@
-## Hi there 👋
+## 🛠️ Tech Stack & Tools
 
-<!--
-**0xmechanicus/0xmechanicus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arch,linux,bash,py,rust,docker,git,github,vscode" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" height="48" />
+</p>
 
-Here are some ideas to get you started:
+## 🛡️ Cybersecurity Training
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco_Networking_Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Siber_Vatan-C8102E?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/BTK_Academy-003A70?style=for-the-badge&logoColor=white" />
+</p>

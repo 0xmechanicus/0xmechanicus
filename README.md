@@ -2,7 +2,6 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=arch,linux,bash,py,rust,docker,git,github,vscode" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" height="48" />
 </p>
 
 ## 🛡️ Cybersecurity Training
